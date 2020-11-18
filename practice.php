@@ -14,7 +14,7 @@ $name = "Nana";
 $world = "'s World";
 echo $hello . $name . $world;
 
-$tech_boost = "tech";
+$tech_boost = "tech ";
 $tech_boost .= "boost";
 echo $tech_boost;
 
